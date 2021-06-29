@@ -5,7 +5,7 @@ draft: false
 ---
 
 # DeeJ Capital LLC
-#https://www.airbnb.com/h/poconogetawayhouse
-#
-#https://www.airbnb.com/rooms/50527933
-#
+
+https://www.airbnb.com/h/poconogetawayhouse
+
+https://www.airbnb.com/rooms/50527933
