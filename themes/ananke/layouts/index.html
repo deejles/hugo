@@ -22,6 +22,13 @@
 
       {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
 
+        <p class="f6 b helvetica tracked"> 
+            https://www.airbnb.com/h/poconogetawayhouse
+        </p>
+        <p class="f6 b helvetica tracked">
+            https://www.airbnb.com/rooms/50527933
+        </p>
+      
       <section class="w-100 mw8">
         {{/* Range through the first $n_posts items of the section */}}
         {{ range (first $n_posts $section) }}
