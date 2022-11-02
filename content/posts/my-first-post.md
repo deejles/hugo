@@ -6,8 +6,9 @@ draft: false
 
 # DeeJ Capital LLC
 
-Our mission is to provide the best short term rental option in the Poconos.
-For inquiries please contact Daniel Zentner,Owner, at kittyharkerpa@gmail.com
+Started by Owner/CEO Daniel Zentner in 2021, our mission is to provide the best short term rental option in the Poconos.
+
+For inquireies, please contact: kittyharkerpa@gmail.com
 
 <html>
 <body>
