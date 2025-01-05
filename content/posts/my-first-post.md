@@ -8,7 +8,7 @@ draft: false
 
 Started in 2021, our mission is to provide the best short term rental option in the Poconos.
 
-For inquiries, please contact: kittyharkerpa@gmail.com
+For inquiries, please contact: kittyharkerpa@gmail.com 
 
 <html>
 <body>
